@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/triangle.deps.json
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/triangle.runtimeconfig.json
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/triangle.runtimeconfig.dev.json
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/triangle.dll
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/triangle.pdb
+/Users/Guest/Desktop/triangle/obj/Debug/netcoreapp1.1/triangle.AssemblyInfo.cs
+/Users/Guest/Desktop/triangle/obj/Debug/netcoreapp1.1/triangle.dll
+/Users/Guest/Desktop/triangle/obj/Debug/netcoreapp1.1/triangle.pdb
